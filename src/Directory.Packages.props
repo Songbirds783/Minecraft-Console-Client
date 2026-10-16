@@ -3,19 +3,19 @@
   Library dependencies are restored through NuGet; sibling source checkouts are not required. -->
   <ItemGroup>
     <!-- Pin the complete UMPK runtime graph, including dependencies supplied by DMCBK. -->
-    <PackageVersion Include="Umpk.Auth" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Client" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Commands" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Core" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Data.Java" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Data.Lang" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Game" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Nbt" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Pathfinding" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Physics" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Protocol.Java" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Realms" Version="0.9.0-beta.7" />
-    <PackageVersion Include="Umpk.Text" Version="0.9.0-beta.7" />
+    <PackageVersion Include="Umpk.Auth" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Client" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Commands" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Core" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Data.Java" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Data.Lang" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Game" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Nbt" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Pathfinding" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Physics" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Protocol.Java" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Realms" Version="0.9.0-beta.7.3" />
+    <PackageVersion Include="Umpk.Text" Version="0.9.0-beta.7.3" />
   </ItemGroup>
   <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
